@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StarwarsMovieList/static/css/main.d422f95d.chunk.css",
+    "main.js": "/StarwarsMovieList/static/js/main.73caef8d.chunk.js",
+    "main.js.map": "/StarwarsMovieList/static/js/main.73caef8d.chunk.js.map",
+    "runtime-main.js": "/StarwarsMovieList/static/js/runtime-main.13a6cadd.js",
+    "runtime-main.js.map": "/StarwarsMovieList/static/js/runtime-main.13a6cadd.js.map",
+    "static/js/2.248da59e.chunk.js": "/StarwarsMovieList/static/js/2.248da59e.chunk.js",
+    "static/js/2.248da59e.chunk.js.map": "/StarwarsMovieList/static/js/2.248da59e.chunk.js.map",
+    "index.html": "/StarwarsMovieList/index.html",
+    "precache-manifest.f2b248ae908443cde2712c5390aa437d.js": "/StarwarsMovieList/precache-manifest.f2b248ae908443cde2712c5390aa437d.js",
+    "service-worker.js": "/StarwarsMovieList/service-worker.js",
+    "static/css/main.d422f95d.chunk.css.map": "/StarwarsMovieList/static/css/main.d422f95d.chunk.css.map",
+    "static/js/2.248da59e.chunk.js.LICENSE.txt": "/StarwarsMovieList/static/js/2.248da59e.chunk.js.LICENSE.txt",
+    "static/js/main.73caef8d.chunk.js.LICENSE.txt": "/StarwarsMovieList/static/js/main.73caef8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13a6cadd.js",
+    "static/js/2.248da59e.chunk.js",
+    "static/css/main.d422f95d.chunk.css",
+    "static/js/main.73caef8d.chunk.js"
+  ]
+}
